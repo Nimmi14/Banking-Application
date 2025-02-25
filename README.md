@@ -1,4 +1,4 @@
-Bank is a console-based banking application developed using Python and MySQL. Python was used extensively to structure the application into modular components for better maintainability and scalability.
+It is a console-based banking application developed using Python and MySQL. Python was used extensively to structure the application into modular components for better maintainability and scalability.
 The core functionalities, such as user authentication, banking transactions, and security measures, were implemented using Python’s object-oriented programming (OOP) principles.
 The application starts with an ASCII banner displayed using Python’s print functions. The main menu system is built using a loop that processes user inputs efficiently.
 Account registration includes input validation functions for email and mobile numbers, ensuring data integrity before storing details in the MySQL database through Python’s MySQL connector library. 
